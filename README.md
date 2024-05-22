@@ -170,3 +170,7 @@ make teardown_local_testing
 ```
 
 [1]: https://github.com/go-sql-driver/mysql
+
+
+dashboardID 20197
+https://grafana.com/grafana/dashboards/20197-prometheus-alert-history-record/
